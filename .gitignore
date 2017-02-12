@@ -90,3 +90,6 @@ ENV/
 
 # Weights
 .h5
+vgg-filters-export/
+vgg16_weights.h5
+vgg16_weights.json
